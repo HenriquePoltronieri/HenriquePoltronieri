@@ -78,7 +78,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 /> 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/>
 
 ---
 
@@ -93,28 +93,40 @@
         src="https://github-readme-stats.vercel.app/api?username=henriquepoltronieri&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     />
     <img 
-          align="left" 
-          alt="GitHub Stats" 
-          height="200" 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepoltronieri&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepoltronieri&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
     />
 </p>
-<br/><br/>
+<br/>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriquepoltronieri/henriquepoltronieri/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henriquepoltronieri/henriquepoltronieri/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
 
 ---
 
 ### 📫 Entre em contato
 
-<div align="left">
-  <a href="mailto:henrique.poltronieri2008@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/henrique-poltronieri/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/HenriquePoltronieri" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"  />
-  </a>
-  </div>
+<p>
+    <a href="mailto:henrique.poltronieri2008@gmail.com" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&   labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+    </a>
+    <a href="https://www.linkedin.com/in/henrique-poltronieri/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    </a>
+    <a href="https://github.com/HenriquePoltronieri" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"  />
+    </a>
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4801ff&height=125&section=footer"/>
+<br/>
+
+<p>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4801ff&height=125&section=footer"/>
+</p>
