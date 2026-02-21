@@ -6,8 +6,9 @@
 
  ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
+### Mobile
 
 <img 
     align="left" 
@@ -33,6 +34,10 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"
 />
+<br>
+
+### Back-End
+
 <img 
     align="left" 
     alt="Java" 
@@ -65,6 +70,11 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+<br>
+
+### Dados
+
 <img 
     align="left" 
     alt="MySql" 
@@ -73,6 +83,11 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
+
+<br>
+
+### Ferramentas de Desenvolvimento
+
 <img 
     align="left" 
     alt="Git" 
