@@ -6,7 +6,7 @@
 
  ---
 
-## 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 ### Mobile
 
