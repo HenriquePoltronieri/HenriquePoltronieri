@@ -1,149 +1,272 @@
-# 👩🏻‍💻 Henrique Poltronieri
+<!-- Henrique Poltronieri | GitHub Profile -->
 
-**`Desenvolvedor FullStack`**
+<div align="center">
 
- Olá👋! Me chamo Henrique Poltronieri, tenho 17 anos e sou estudante do 3º ano do Curso Técnico de TI (Desenvolvimento Web & Mobile) no Colégio Cotemig, com conclusão prevista para dezembro de 2026. Atualmente estou aprimorando minhas habilidades em programação e desenvolvimento de software. Tenho grande interesse em seguir carreira como desenvolvedor Full-Stack, criando soluções digitais que unam praticidade, eficiência e inovação, sempre buscando aprender continuamente e colaborar em projetos que envolvam tecnologia e trabalho em equipe.
+# Henrique Poltronieri
 
- ---
+### Back-End Developer
 
-### 🤖 Linguagens e Tecnologias
+**Python · FastAPI · Flask · PostgreSQL · MySQL**
 
-### Mobile
+<br/>
 
-<img 
-    align="left" 
-    alt="Flutter" 
-    title="Flutter"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
+<a href="https://poltronieri-dev.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfólio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+</a>
+<a href="https://www.linkedin.com/in/henrique-poltronieri/">
+  <img src="https://img.shields.io/badge/LinkedIn-17122B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:henrique.poltronieri2008@gmail.com">
+  <img src="https://img.shields.io/badge/Email-17122B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+<br/>
+
+### Sobre mim
+
+Sou desenvolvedor em formação com foco em **Back-End**, principalmente no desenvolvimento de APIs, integração com bancos de dados e construção das regras que sustentam aplicações Web e Mobile.
+
+- 💻 Foco atual em **Python, FastAPI, Flask, PostgreSQL e MySQL**.
+- 🔗 Interesse em **APIs REST, bancos relacionais, autenticação e arquitetura de aplicações**.
+- 🎓 **3º ano do Técnico em Desenvolvimento Web e Mobile** — Colégio Cotemig, conclusão prevista para dez/2026.
+- 🏆 Integrante da equipe vencedora do **Desafio das Quebradas**, no Minas Summit.
+- 📍 Belo Horizonte, MG · Brasil.
+
+<br/>
+
+### Stack & ferramentas
+
+<table>
+<tr>
+  <td><b>Back-End</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask&theme=dark" alt="Python, FastAPI e Flask" height="38" />
+  </td>
+</tr>
+
+<tr>
+  <td><b>Dados</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark" alt="PostgreSQL, MySQL e Supabase" height="38" />
+  </td>
+</tr>
+
+<tr>
+  <td><b>Web</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React e Next.js" height="38" />
+  </td>
+</tr>
+
+<tr>
+  <td><b>Mobile</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin&theme=dark" alt="Flutter, Dart e Kotlin" height="38" />
+  </td>
+</tr>
+
+<tr>
+  <td><b>Outras linguagens</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=java,cs&theme=dark" alt="Java e C Sharp" height="38" />
+  </td>
+</tr>
+
+<tr>
+  <td><b>Ferramentas</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma&theme=dark" alt="Git, GitHub, VS Code, Postman, Docker e Figma" height="38" />
+  </td>
+</tr>
+</table>
+
+<sub>Meu foco principal está no ecossistema Python e no desenvolvimento Back-End. As demais tecnologias fazem parte da minha experiência com aplicações Full-Stack e Mobile.</sub>
+
+<br/>
+
+### Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>⚽ PlayOne</h3>
+
+<p>
+Plataforma voltada à gestão de escolinhas esportivas, reunindo alunos, responsáveis, organização interna, financeiro e recursos de engajamento.
+</p>
+
+<p>
+<code>Python</code>
+<code>FastAPI</code>
+<code>PostgreSQL</code>
+</p>
+
+<p>
+Projeto em que venho aprofundando conceitos de <b>APIs, autenticação, regras de negócio e arquitetura Back-End</b>.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🍽️ Sistema ERP</h3>
+
+<p>
+Sistema de gestão para centralizar operações como produtos, estoque, clientes e vendas.
+</p>
+
+<p>
+<code>Python</code>
+<code>Flask</code>
+<code>MySQL</code>
+</p>
+
+<p>
+Foco na organização da aplicação, persistência de dados e implementação das regras de negócio.
+</p>
+
+<a href="https://github.com/HenriquePoltronieri/Sistema-de-gestao-ERP-em-Python">Ver repositório ↗</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎓 Mentorly</h3>
+
+<p>
+Plataforma educacional com conteúdos, quizzes, sistema de pontuação e acompanhamento do desempenho dos estudantes.
+</p>
+
+<p>
+<code>Flutter</code>
+<code>Flask</code>
+<code>MySQL</code>
+</p>
+
+<p>
+Aplicação Mobile integrada a uma <b>API própria em Python</b> e banco de dados relacional.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🍫 Brownie App</h3>
+
+<p>
+Sistema para gerenciamento de clientes, vendas e fidelidade de uma pequena operação comercial.
+</p>
+
+<p>
+<code>Flutter</code>
+<code>Python</code>
+<code>MySQL</code>
+</p>
+
+<p>
+Controle de histórico de compras, fidelidade e indicadores de vendas.
+</p>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <a href="https://poltronieri-dev.vercel.app/"><b>Ver todos os projetos no meu portfólio ↗</b></a>
+</div>
+
+<br/>
+
+### Além do código
+
+Participei de eventos como **Google I/O Extended**, **World Creativity Day** e **Minas Summit**, onde minha equipe venceu o **Desafio das Quebradas**.
+
+Também concluí uma formação complementar da **Cisco em Hardware e Computadores**.
+
+Essas experiências aumentaram meu interesse não apenas em programação, mas também em **produto, resolução de problemas e desenvolvimento de soluções reais em equipe**.
+
+<br/>
+
+### Atualmente
+
+```python id="rcugir"
+henrique = {
+    "focus": "Back-End Development",
+    "main_stack": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "PostgreSQL",
+        "MySQL"
+    ],
+    "interests": [
+        "REST APIs",
+        "Databases",
+        "Software Architecture",
+        "Authentication",
+        "SaaS"
+    ]
+}
+```
+
+<br/>
+
+### Contribuições
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/HenriquePoltronieri/HenriquePoltronieri/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/HenriquePoltronieri/HenriquePoltronieri/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/HenriquePoltronieri/HenriquePoltronieri/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+<br/>
+
+### GitHub em números
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePoltronieri&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6"
+  height="165"
+  alt="Linguagens nos repositórios públicos do GitHub"
 />
-<img 
-    align="left" 
-    alt="Kotlin" 
-    title="Kotlin"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Swift" 
-    title="Swift"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"
-/>
-<br>
 
-### Back-End
+</div>
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+<sub>O gráfico considera os repositórios analisados pelo serviço externo e não representa nível de proficiência.</sub>
 
-<br>
+---
 
-### Dados
+<div align="center">
 
-<img 
-    align="left" 
-    alt="MySql" 
-    title="MySql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
+<b>Construindo o que acontece por trás da interface.</b>
 
-<br>
-
-### Ferramentas de Desenvolvimento
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Github" 
-    title="Github"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/> 
 <br/><br/>
 
----
+<a href="mailto:henrique.poltronieri2008@gmail.com">Email</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/henrique-poltronieri/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://poltronieri-dev.vercel.app/">Portfólio</a>
 
-### 📊 Estatísticas
+<br/><br/>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriquepoltronieri/henriquepoltronieri/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henriquepoltronieri/henriquepoltronieri/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+<sub>© 2026 Henrique Poltronieri</sub>
 
-<br/>
-
----
-
-### 📫 Entre em contato
-
-<p>
-    <a href="mailto:henrique.poltronieri2008@gmail.com" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-    </a>
-    <a href="https://www.linkedin.com/in/henrique-poltronieri/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-    </a>
-    <a href="https://github.com/HenriquePoltronieri" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"  />
-    </a>
-</p>
-
-<br/>
-
-<p>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4801ff&height=125&section=footer"/>
-</p>
+</div>
